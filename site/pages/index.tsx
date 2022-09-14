@@ -59,7 +59,7 @@ export default function Home({
         ))}
       </Marquee>
       <Hero
-        headline=" First dragée halvah croissant."
+        headline=" Second dragée halvah croissant."
         description="Cupcake ipsum dolor sit amet lemon drops pastry cotton candy. Sweet carrot cake macaroon bonbon croissant fruitcake jujubes macaroon oat cake. Soufflé bonbon caramels jelly beans. Tiramisu sweet roll cheesecake pie carrot cake. "
       />
       <Grid layout="B" variant="filled">
